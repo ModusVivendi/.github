@@ -152,7 +152,7 @@ For the **FIRST Age DECODE** season, we're implementing advanced technical solut
 
 ## 📋 Code of Conduct
 
-We are committed to providing a welcoming and inclusive environment for all participants. All members, contributors, and participants are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+We are committed to providing a welcoming and inclusive environment for all participants. All members, contributors, and participants are expected to adhere to our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ---
 
